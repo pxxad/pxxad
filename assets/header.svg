@@ -1,0 +1,40 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A942F5"/>
+      <stop offset="100%" stop-color="#44BC87"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <text x="600" y="120"
+        text-anchor="middle"
+        font-size="56"
+        font-family="Fira Code, monospace"
+        fill="url(#text)">
+    Prasad J B
+  </text>
+
+  <text x="600" y="175"
+        text-anchor="middle"
+        font-size="26"
+        font-family="Fira Code, monospace"
+        fill="#d1d5db">
+    Full Stack Developer | B.Tech IT @ IIIT Lucknow
+  </text>
+
+  <text x="600" y="215"
+        text-anchor="middle"
+        font-size="18"
+        font-family="Fira Code, monospace"
+        fill="#9ca3af">
+    Python • JavaScript • Open Source
+  </text>
+</svg>
