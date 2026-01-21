@@ -1,4 +1,3 @@
-![laptop](https://github.com/user-attachments/assets/5debf1c2-ae0d-4d38-863a-e884717f333f)<div align="center">
   <img src="https://raw.githubusercontent.com/pxxad/pxxad/main/assets/header.svg" alt="Prasad JB Banner" width="100%" />
 </div>
 
