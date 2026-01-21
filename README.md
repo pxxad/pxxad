@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prasad-JB/Prasad-JB/main/assets/header.svg" alt="Prasad JB Banner" width="100%" />
+![laptop](https://github.com/user-attachments/assets/5debf1c2-ae0d-4d38-863a-e884717f333f)<div align="center">
+  <img src="https://raw.githubusercontent.com/pxxad/pxxad/main/assets/header.svg" alt="Prasad JB Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
         <code>>_ Node.js: Ready</code>
       </td>
       <td align="center" width="40%">
-        <img src="https://raw.githubusercontent.com/Prasad-JB/Prasad-JB/main/assets/laptop.gif" width="180" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYyZGk3Z2tvdWhsbjR5cm51NWk4ZG55Z3Awd2x1Y2x3ZmZuNjlmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
       </td>
       <td align="left" width="30%">
         <code>>_ git commit -m "All In"</code><br/>
@@ -110,5 +110,5 @@ I am a **2nd year B.Tech IT student** at **IIIT Lucknow**, passionate about buil
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prasad-JB/Prasad-JB/main/assets/streak.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
 </div>
