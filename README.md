@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A942F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student+at+IIIT+Lucknow;Python+%26+JS+Enthusiast;Building+Scalable+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A942F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JS+Enthusiast;Building+Scalable+Systems"
     alt="Typing SVG"
   />
 </div>
@@ -50,7 +50,7 @@
 ### 🚀 About Me
 <img align="right" src="https://raw.githubusercontent.com/Prasad-JB/Prasad-JB/main/assets/developer.gif" width="280" />
 
-I am a **2nd year B.Tech IT student** at **IIIT Lucknow**, passionate about building scalable backend systems and interactive frontend experiences.
+I am a **2nd year B.Tech IT student**, passionate about building scalable backend systems and interactive frontend experiences.
 
 - 🔭 Working on **Agentic Workflows & Real-time AI Systems**
 - 🌱 Learning **Advanced Database Optimization & System Design**
