@@ -1,113 +1,159 @@
-  <img src="https://raw.githubusercontent.com/pxxad/pxxad/main/assets/header.svg" alt="Prasad JB Banner" width="100%" />
-</div>
-
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A942F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JS+Enthusiast;Building+Scalable+Systems"
-    alt="Typing SVG"
-  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,50:243B55,100:0F2027&text=Prasad%20J%20B&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Open%20Source&descAlignY=58&descSize=20"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%26+JavaScript+Enthusiast;Building+Scalable+Systems;Open+Source+Contributor"/>
+
 </div>
 
-<h3 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  I'm Prasad J B
-</h3>
+---
+
+<h2 align="center">👋 Hello, I'm Prasad JB</h2>
 
 <p align="center">
-  <a href="https://github.com/Prasad-JB">
-    <img src="https://img.shields.io/badge/GitHub-Prasad--JB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/pxxad">
+    <img src="https://img.shields.io/badge/GitHub-pxxad-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="mailto:prasadjb24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/prasad__jb/">
+    <img src="https://img.shields.io/badge/LeetCode-prasad__jb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/prasad-jb-a67416339">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasad_JB-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="right" width="30%">
-        <code>>_ System.init()</code><br/>
-        <code>>_ Loading modules...</code><br/>
-        <code>>_ Python: Linked</code><br/>
-        <code>>_ Node.js: Ready</code>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYyZGk3Z2tvdWhsbjR5cm51NWk4ZG55Z3Awd2x1Y2x3ZmZuNjlmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
-      </td>
-      <td align="left" width="30%">
-        <code>>_ git commit -m "All In"</code><br/>
-        <code>>_ Deploying 2.0...</code><br/>
-        <code>>_ Status: 200 OK</code><br/>
-        <code>>_ Next: Innovation</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-### 🚀 About Me
-<img align="right" src="https://raw.githubusercontent.com/Prasad-JB/Prasad-JB/main/assets/developer.gif" width="280" />
+<table>
+<tr>
 
-I am a **2nd year B.Tech IT student**, passionate about building scalable backend systems and interactive frontend experiences.
+<td width="50%">
 
-- 🔭 Working on **Agentic Workflows & Real-time AI Systems**
-- 🌱 Learning **Advanced Database Optimization & System Design**
-- 👯 Open to **Open Source Python & Backend projects**
-- 💬 Ask me about **Python, JavaScript, Backend Development**
+## 🚀 About Me
 
-<br clear="all"/>
+* 💻 Passionate Full Stack Developer
+* 🧠 Exploring AI Systems & Backend Engineering
+* 🌱 Learning System Design & Database Optimization
+* ⚡ Strong interest in Open Source & Problem Solving
+* 🎯 Building scalable real-world applications
 
----
+<br>
 
 ### 🛠 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mysql,git,linux,vscode"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="90%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-**Languages**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxxad&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Frameworks & Libraries**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-**Database & Tools**  
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pxxad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+# 🔥 Contribution Heatmap
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasad-JB&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-JB&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pxxad&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pxxad&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pxxad&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/prasad__jb/">
+<img src="https://leetcard.jacoblin.cool/prasad__jb?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/pxxad">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasad-jb-a67416339">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:prasadjb24@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasad-JB&label=Profile%20Views&color=A942F5&style=for-the-badge" />
-</div>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=pxxad&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
+<br><br>
+
+⭐ <b>Code • Create • Innovate</b>
+
 </div>
