@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">👋 Hello, I'm Prasad JB</h2>
+<h2 align="center">👋 Hello, I'm Prasad J B</h2>
 
 <p align="center">
   <a href="https://github.com/pxxad">
@@ -51,16 +51,34 @@
 
 <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mysql,git,linux,vscode"/>
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pxxad&theme=tokyonight"/>
+
 </td>
 
 <td width="50%" align="center">
 
 <img width="90%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
+<br><br>
+
+<img width="80%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
 </td>
 
 </tr>
 </table>
+
+---
+
+# ⚡ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -86,7 +104,6 @@
 
 ---
 
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -95,6 +112,7 @@
 
 </div>
 
+---
 
 # 🏆 Achievements
 
