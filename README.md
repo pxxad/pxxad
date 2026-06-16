@@ -8,6 +8,12 @@
 
 </div>
 
+<h3>
+  <p align="right">
+  <sub>↪ migrated from <a href="https://github.com/Prasad-JB">@Prasad-JB</a></sub>
+</p>
+</h3>
+
 ---
 
 <h2 align="center">👋 Hello, I'm Prasad J B</h2>
